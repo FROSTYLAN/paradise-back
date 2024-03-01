@@ -1,0 +1,9 @@
+{
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "strict",
+  "jsxSingleQuote": true,
+  "semi": false,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "trailingComma": "none"
+}
